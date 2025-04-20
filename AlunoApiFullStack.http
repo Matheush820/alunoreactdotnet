@@ -1,0 +1,6 @@
+@AlunoApiFullStack_HostAddress = http://localhost:5147
+
+GET {{AlunoApiFullStack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

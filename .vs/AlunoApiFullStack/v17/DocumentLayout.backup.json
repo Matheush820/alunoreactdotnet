@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|c:\\users\\mathe\\documents\\projetos\\alunoreactdotnet\\alunoapifullstack\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|c:\\users\\mathe\\documents\\projetos\\alunoreactdotnet\\alunoapifullstack\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|c:\\users\\mathe\\documents\\projetos\\alunoreactdotnet\\alunoapifullstack\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|c:\\users\\mathe\\documents\\projetos\\alunoreactdotnet\\alunoapifullstack\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|solutionrelative:services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|c:\\users\\mathe\\documents\\projetos\\alunoreactdotnet\\alunoapifullstack\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|solutionrelative:services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|c:\\users\\mathe\\documents\\projetos\\alunoreactdotnet\\alunoapifullstack\\viewmodel\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC05F0E5-02E0-4749-BFA1-ED2F4F50282B}|AlunoApiFullStack.csproj|solutionrelative:viewmodel\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T19:28:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:16:23.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:28:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthenticateService.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Services\\AuthenticateService.cs",
+              "RelativeToolTip": "Services\\AuthenticateService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:58:26.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunosService.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Services\\AlunosService.cs",
+              "RelativeDocumentMoniker": "Services\\AlunosService.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\Services\\AlunosService.cs",
+              "RelativeToolTip": "Services\\AlunosService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:14:35.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\ViewModel\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\AlunoReactDotnet\\AlunoApiFullStack\\ViewModel\\RegisterModel.cs",
+              "RelativeToolTip": "ViewModel\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:38:20.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
